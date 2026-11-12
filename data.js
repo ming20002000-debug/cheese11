@@ -79,7 +79,7 @@ const CANDIDATES = [
   { id: "m22", name: "NCT 127", group: "2016년 데뷔", song: "소방차 (Fire Truck)", gender: "male", youtubeId: "ssBGdX5-h94", start: 0 },
   { id: "m23", name: "NCT DREAM", group: "2016년 데뷔", song: "BOOM", gender: "male", youtubeId: "5kYEiCIbtRE", start: 0 }, // SM의 NCT DANCE 채널 업로드
   { id: "m24", name: "NCT DREAM", group: "2016년 데뷔", song: "We Go Up", gender: "male", youtubeId: "QLXvgzik5lU", start: 0 },
-  { id: "m25", name: "MONSTA X (몬스타엑스)", group: "2015년 데뷔", song: "Shoot Out", gender: "male", youtubeId: "3oLG_rx1-lw", start: 0 },
+  { id: "m25", name: "MONSTA X (몬스타엑스)", group: "2015년 데뷔", song: "Shoot Out", gender: "male", youtubeId: "f_sBAFCZxdo", start: 0 },
   { id: "m26", name: "MONSTA X (몬스타엑스)", group: "2015년 데뷔", song: "HERO", gender: "male", youtubeId: "hb_yGZ9nJik", start: 0 },
   { id: "m27", name: "VIXX (빅스)", group: "2012년 데뷔", song: "다칠 준비가 돼 있어 (On and On)", gender: "male", youtubeId: "13yeFLqKTIA", start: 0 },
   { id: "m28", name: "VIXX (빅스)", group: "2012년 데뷔", song: "저주인형 (Voodoo Doll)", gender: "male", youtubeId: "E4NcBm4CUhU", start: 0 },
